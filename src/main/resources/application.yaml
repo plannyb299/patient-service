@@ -1,0 +1,15 @@
+#server:
+#  port: 4500
+#
+#spring:
+#  application:
+#    name: PATIENT-SERVICES
+#
+#eureka:
+#  client:
+#    register-with-eureka: true
+#    fetch-registry: true
+#    service-url:
+#      defaultZone: http://localhost:8161/eureka/
+#    instance:
+#      hostname: localhost
